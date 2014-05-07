@@ -2,7 +2,7 @@
 lock '3.1.0'
 
 set :application, 'my_app_name'
-set :repo_url, 'git@example.com:me/my_repo.git'
+set :repo_url, 'https://github.com/arunumap/building.git'
 set :branch, 'master'
 
 set :deploy_to, '/home/railsapps/public_html/vcfm'
